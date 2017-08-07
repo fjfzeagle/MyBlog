@@ -1,7 +1,7 @@
 ---
 title: 使用第三方MQTT Client连接云巴的MQTT Broker
 date: 2017-08-07 13:27:02
-tags:[MQTT,云巴]
+tags: [MQTT,云巴]
 ---
 
 ## 准备工作
