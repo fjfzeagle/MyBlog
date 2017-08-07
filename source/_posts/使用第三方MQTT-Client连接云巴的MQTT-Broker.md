@@ -11,6 +11,8 @@ tags: [MQTT,云巴]
 - 云巴应用管理中的APPKey：563c4afef085fc471efdf803，需替换成自己应用的appKey
 - TCP调试工具：网上随便下载一个
 
+<!-- more -->
+
 ## 获取可用的MQTT Broker
 
 1. 打开arduino_sdk下的YunbaWIFI.ino，找到get_host_v2函数源码​
